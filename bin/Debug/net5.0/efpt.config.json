@@ -1,0 +1,80 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "DbintranetContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "DB",
+   "OutputPath": null,
+   "ProjectRootNamespace": "RestAPIDemo",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[department]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[employees]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[galleryMain]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[gallerySub]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[group]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[menu]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[news]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[questions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[register]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[topicGallary]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[uploadFileKM]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[uploadFileMenu]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "NB03035110082.DBIntranet",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sirintip.mai\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sirintip.mai\\.nuget\\packages"
+    ]
+  }
+}
